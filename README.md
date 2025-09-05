@@ -23,5 +23,6 @@ const dbPwd = "<YOUR PASSWORD>";
 In the terminal, run:
 
 ```
+npm install
 npm start
 ```
