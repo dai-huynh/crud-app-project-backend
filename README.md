@@ -5,12 +5,23 @@ This repository is the server (back-end) code for Final Project - Full-Stack CRU
 
 ### Tech Stack
 
-- HTML
-- CSS
-- React (JavaScript)
 - React Router
 - React Redux
 - Node
 - Express
 - PostgreSQL
 - Sequelize
+
+### Get Started
+
+In database/utils/configDB.js:
+
+```
+const dbPwd = "<YOUR PASSWORD>";
+```
+
+In the terminal, run:
+
+```
+npm start
+```
